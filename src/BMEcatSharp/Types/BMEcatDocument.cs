@@ -18,7 +18,7 @@ namespace BMEcatSharp
     /// <br/>
     /// XML-namespace: BMECAT
     /// </summary>
-    [XmlRoot("BMECAT", Namespace = "http://www.bmecat.org/bmecat/2005")]
+    [XmlRoot("BMECAT", Namespace = "http://www.bmecat.org/bmecat/2005fd")]
     public class BMEcatDocument
     {
         [XmlNamespaceDeclarations]
