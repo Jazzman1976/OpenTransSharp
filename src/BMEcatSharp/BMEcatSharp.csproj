@@ -7,6 +7,7 @@
     <Nullable>enable</Nullable>
     <PackageTags>bmecat bmecat-2005</PackageTags>
     <Description>Read/edit/write/validate BMEcat 2005 xml files.</Description>
+    <Version>1.0.1-issue11fix</Version>
   </PropertyGroup>
 
   <ItemGroup>
@@ -27,7 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <InternalsVisibleTo Include="BMEcatSharp.Tests"/>
+    <InternalsVisibleTo Include="BMEcatSharp.Tests" />
   </ItemGroup>
 
 </Project>

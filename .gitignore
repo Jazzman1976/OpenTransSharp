@@ -1,2 +1,8 @@
 ﻿*.cache
 _NCrunch*
+
+**/.vs/
+**/bin/
+**/obj/
+
+**/*.user
